@@ -1,0 +1,36 @@
+{
+  "name": "@marmot-webdev/dataset-obj",
+  "version": "1.0.0",
+  "description": "A helper function that converts the data attributes of an HTML element into an object, parsing and transforming values based on their types (such as boolean, numeric, and more)",
+  "license": "MIT",
+  "author": "Serhii Babakov <marmot.webdev@gmail.com>",
+  "homepage": "https://github.com/marmot-webdev/dataset-obj",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marmot-webdev/dataset-obj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marmot-webdev/dataset-obj/issues"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "dataset",
+    "data attribute",
+    "data attributes",
+    "data attrs",
+    "HTML element",
+    "object",
+    "convert",
+    "transform",
+    "parse",
+    "value",
+    "values",
+    "type",
+    "types",
+    "type conversions"
+  ]
+}
